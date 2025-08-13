@@ -254,6 +254,7 @@ h3 {
   margin-top: 450px;
   margin-left: 200px;
   position: absolute;
+  z-index: -1;
  }
 
  .top1 img {
@@ -270,8 +271,23 @@ h3 {
 
  .top3 img {
   position: absolute;
-  margin-left: 1100px;
+  margin-left: 1090px;
   height: 370px;
   width: auto;
+  margin-top: 260px;
   
  }  
+
+  .top1 p {
+    position: absolute;
+    margin-top: 500px;
+    margin-left: 700px;
+  }
+  
+  .top2 p {
+    position: absolute;
+  }
+
+  .top3 p {
+    
+  }
