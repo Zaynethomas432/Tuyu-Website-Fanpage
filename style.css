@@ -274,20 +274,32 @@ h3 {
   margin-left: 1090px;
   height: 370px;
   width: auto;
-  margin-top: 260px;
+  margin-top: 230px;
   
  }  
 
   .top1 p {
     position: absolute;
-    margin-top: 500px;
-    margin-left: 700px;
+    margin-top: 470px;
+    margin-left: 770px;
+    width: 700px;
   }
   
   .top2 p {
     position: absolute;
+    margin-left: 60px;
+    margin-top: 560px;
+    width: 700px;
+    text-align: center;
   }
 
   .top3 p {
-    
+    position: absolute;
+    margin-left: 926px;
+    margin-top: 670px;
+    width: 700px;
+    text-align: center;
+  }
+  .title1 {
+    margin-left: 70px;
   }
